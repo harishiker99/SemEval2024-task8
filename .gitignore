@@ -1,3 +1,12 @@
 venv/
 wandb/
 runs/
+.ipynb_checkpoints/
+__pycache__/
+V1/RoBERTa_Large_SubtaskA_V1/
+
+V2/RoBERTa_Large_SubtaskA_V2/
+V2/Roberta_AI_Content_Detection_V2/
+
+V3/RoBERTa_Large_SubtaskA_V3/
+V3/Roberta_AI_Content_Detection_V3/
